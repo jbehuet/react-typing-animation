@@ -69,7 +69,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
-  "main": "./dist/index.js",
+  "main": "./index.js",
   "babel": {
     "presets": ["env", "react-app"]
   },
